@@ -26,10 +26,6 @@
 
 ### Mini goals for this week?:
 
-* Blog post for week 5 Javascript and push notes to Github
-* Investigate how to deploy an app to Heroku (check link Ellie posted)
-* Implement a daily reflection process (what did you learn today? what was hard?)
-
-***********************************************************
+* Blog post for week 5 Javascript and push notes to Github *DONE*
 
 ***********************************************************
