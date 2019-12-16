@@ -67,27 +67,3 @@
     Devise.
     FactoryBot.
     Shoulda.
-
-***********************************************************
-
-### WORKSHOP: API CALLS
-
-AJAX: Asynchronous Javascript & XML
-
-JSON: standard for encoding data in a string format
-JS object: Hash in JS - key value pairs
-Can send AJAX as JSON
-Converts JS object to JSON, turns it to a string of JSON (specific format for converting JS object to string)
-Can on the other end run thru JSON parser and change it back to JS object
-
-AJAX: JS sends HTTP request and waits for a response from the server, when it comes back update the page - without having to load a new page
-
-Can also use AJAX to grab data from an external source after webpage has loaded
-
-- Onload function:
-
-document.addEventListener("DOMContentLoaded, function(){
-
-}
-
-***********************************************************
